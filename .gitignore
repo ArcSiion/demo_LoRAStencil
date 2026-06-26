@@ -1,0 +1,3 @@
+LoRAStencil/build*/
+Temporal_demo/**/exe-*
+Temporal_demo/**/*.o
